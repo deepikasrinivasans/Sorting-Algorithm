@@ -34,7 +34,6 @@ print(list_of_nums)
 ```
 ii)	#Insertion Sort
 ```
-
 def insertion_sort(nums):
     for i in range(1, len(nums)):
         item_to_insert = nums[i]
@@ -48,7 +47,6 @@ list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
 ```
-
 ## Output:
 i) Selection sort:
 ![selection sort](https://github.com/deepikasrinivasans/Sorting-Algorithm/assets/119393935/43fc65a3-01fc-4885-a9ec-aabd76d3e24f)
